@@ -1,56 +1,121 @@
 ---
 permalink: /
-title: "TEST!!!!!!"
+title: "Shreeya Sharda's Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+My goal is to give future employers, advisors, and other collaborators a **snapshot** of my technical and soft skills. :) 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am currently a Master's student at The George Washington University, studying Computer Science. I am part of the Joint BA & MS in Computer Science (CS) program at GW. I took an interdisciplinary approach to my undergrad education by tailoring my undergrad degree to blend coursework in Business and Sustainability in addition to CS. As I pursued my coursework at GW, I simultaneously acquired 4+ years of professional experience in AI/ML: moving from academic research to w to defense consulting. Along the way, I engaged in independent projects focused around NLP (emedding, tokenization, LLMs). These experiences have led me to my master's thesis in which I am studying the relationship between types of datasets (synthetic and original) and model architectures (rule-based, deep learning, machine learning). I am evaluating this relationship by comparing the performance of state of the art NLP models (e.g., BERT, RoBERTa, Gemini) on sentiment analysis tasks, using common ML metrics (F1, precision, recall, cross-validation). I seek to understand why the models are failing in prescribing sentiment to certain online reviews, finding patterns in the language of the reviews.  Through this way, I have become skilled in a technical (machine learning, data science, deep learning) and non-technical domain (leadership, team collaboration, interpersonal communication), preparing me well for future opportunities. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
+Goals
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+My short term goal is to pursue a PhD in CS in Fall 2026. My long term goal is to become a Professor and mentor young minds! I want to dedicate my life to conducting high-impact research and traveling around the world to give talks about my research. You need to make this more specific and detailed 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Research Interests 
+======
 
-**Markdown generator**
+My research intersects natural language processing, responsible AI, and human-robot interaction. I aim to develop and engage in research dedicated to creating user-friendly and trustworthy interfaces that provide easy human-robot task communication. This research is **difficult** for many reasons, however I am particularly focused on the notion that they are a "black-box" and thus lack the transparency and ethics to be used in society. 
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**Technical Areas**
+1. Natural Language Processing (NLP)
+2. Machine Learning (ML)
+3. Deep Learning (DL)
+4. Computer Vision (CV) (object detection and image classification tasks) 
+5. Human Robotic Interaction (HRI)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+**Non-Technical Areas**
+1. Casual Inference
+2. AI Governance (e.g., Fairness, Bias, AI Risk Management, NIST, CHAI, Responsible AI)
+3. Social Impact (e.g., Investigating how different algorithmic choices impact different demographics)
+4. AI Safety & Ethics for Trustworthy AI
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+**Specific HRI/Robotics Topics**
+1. Integration of multiple data modalities
+2. Increased focus on explainability and ethical considerations
+3. Improved cross-cultural capabilities
+4. **Increased collaboration between human researchers and AI systems** 
+
+I am also passionate about taking an interdisciplinary approach to my research by leveraging tools such as cognitive psychology and social science to address these research topics. I am also interested in applying my work to healthcare. 
+
+
+
+Research Experiences
+======
+1. **Undergraduate Research Assistant at Institute of Russian, Eurasian, European Studies (February 2021 - Present).** I led a 3 year Sentiment Analysis study of online reviews, primarily using Python and Tableau. My research questions were: 1) How can I implement and apply NLP Sentiment Analysis techniques to analyze online reviews from TripAdvisor?, 2) How can I generalize my approach to other domains outside of tourism (e.g., product reviews on Amazon)?
+   
+   Stakeholders: National Science Foundation (NSF), Sustainability Institute, Ministry of Foreign Affairs in Norway
+   
+2. **AI/ML Engineer at MITRE (May 2023 - May 2024).** I researched AI governance, computer vision, risk management frameworks (NIST, CHAI), and responsible AI. My research question was: How can I create ethical, trustworthy, and reliable AI systems for the betterment of society? 
+   
+   Stakeholders: Department of Defense (DoD) - National Geospatial Intelligence Agency (NGA)
+   
+3. **Master's Thesis (August 2025 - Present)**. I am advised by Dr. Ayah Zirkly & Dr. Robert Orttung. My research question was: How does the performance of common ML metrics (F1, precision, recall, cross-validation) for sentiment analysis tasks change between different model architectures (rule-based, deep learning, machine learning) and different datasets (synthetic and man-made)?
+   
+   Stakeholders: School of Engineering & Applied Sciences (SEAS), Sustainability Institute
+   
+4. **Independent Projects (August 2025 - Present)**
+   1. Building an LLM Model From Scratch (coming to Github soon!)
+   2. Design, Build, Deploy, And Improve ML & Statistical Models To Analyze Structured And Unstructured Datasets (coming to Github soon!)
+   3. Train, Validate, and Optimize Models Using Large Datasets (coming to Github soon!)
+
+
+
+Teaching Experiences
+======
+1. Learning Assistant for **Python** Programming at GWU (2021-2022)
+2. **Python** Programming Instructor for K-8 Students at Code Advantage (2024-2025)
+
+
+
+Publications
+======
+1. Shreeya Sharda, Zoe Garbis, Hannah Besly, Robert Orttung, "The Variables Impacting Tourists in Overcrowded Regions: A Case Study of Juneau, Alaska", Advised by Dr. Robert Orttung. **This manuscript will be submitted for review in December 2025 in a Tourism journal. **
+
+
+
+Grants
+======
+1. Research Grant from Institute of Russian, Eurasian, European Studies for Sentiment Analysis Study (2022) - I received funding to travel to Norway in Summer 2022 to expand my research agenda internationally. 
+
+
+
+Awards 
+======
+1. Dean's List (2021, 2022).
+2. School of Engineering & Applied Sciences Honor Award (2025, 2026) - I received 25% off of my Master's tuition.
+
+
+  
+Technical Skills
+======
+1. **Programming Languages:**
+   Python, Java, HTML, MATLAB, C
+3. **Data Visualization Python-Libraries and Tools:**
+   Matplotlib, Seaborn, Tableau, Power BI
+5. **Data Science/Machine Learning Python-Libraries and Programming Languages:**
+   Sklearn, TensorFlow, PyTorch, XGBoost,  SQL
+7. **NLP Python-Libraries:**
+   TextBlob, NLTK, Spacy, GloVe, Word2vec
+9. **Robotics Python-Libraries, Tools:**
+   OpenCV, Unity Game Engine, ROS1, ROS2
+11. **Optimized Processing Tools:**
+   Graphics Processing Units (GPU)
+
+
+
+Core Strengths
+======
+**Strengths**
+1. **Curious** (I am always looking to advance my knolwedge using textbooks, peer reviewed articles, blog posts; I have compiled my research into a giant respository, going from fundamentals to advanced topics. I use this work to help me identify research gaps for my PhD, decipher journal articles, keep track of emerging trends in fields such as NLP).
+2. **Transparent** (I am a big advocate for model documentation because it makes AI systems transparent and less of a "black-box". To that end, I am transparent about how I make decisions and conclusions in my research.)
+
