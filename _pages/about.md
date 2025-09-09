@@ -6,12 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My goal is to give future employers, advisors, and other collaborators a **snapshot** of my technical and soft skills. :) 
+My goal is to give future employers, advisors, and other collaborators a **snapshot** of my technical and soft skills. 
 
 
 About Me
 ======
-I am currently a Master's student at The George Washington University, studying Computer Science. I am part of the Joint BA & MS in Computer Science (CS) program at GW. I took an interdisciplinary approach to my undergrad education by tailoring my undergrad degree to blend coursework in Business and Sustainability in addition to CS. As I pursued my coursework at GW, I simultaneously acquired 4+ years of professional experience in AI/ML: moving from academic research to w to defense consulting. Along the way, I engaged in independent projects focused around NLP (emedding, tokenization, LLMs). These experiences have led me to my master's thesis in which I am studying the relationship between types of datasets (synthetic and original) and model architectures (rule-based, deep learning, machine learning). I am evaluating this relationship by comparing the performance of state of the art NLP models (e.g., BERT, RoBERTa, Gemini) on sentiment analysis tasks, using common ML metrics (F1, precision, recall, cross-validation). I seek to understand why the models are failing in prescribing sentiment to certain online reviews, finding patterns in the language of the reviews.  Through this way, I have become skilled in a technical (machine learning, data science, deep learning) and non-technical domain (leadership, team collaboration, interpersonal communication), preparing me well for future opportunities. 
+I am currently a Master's student at The George Washington University, studying Computer Science. I am part of the Joint BA & MS in Computer Science (CS) program at GW. I took an interdisciplinary approach to my undergrad education by tailoring my undergrad degree to blend coursework in Business and Sustainability in addition to CS. I started my career as an International Affairs major because I was interested in the intersection of tech, science, and policy. After taking an introductory course in Python programming, I found that I was much more passionate about the technical side of computer science. As a Master's student, I am grateful for my preliminary studies in International Affairs because it directly aligns with my work in AI Goverance, a topic I am interested in researching within my PhD. 
+
+As I pursued my coursework at GW, I simultaneously acquired 4+ years of professional experience in AI/ML: moving from academic research to w to defense consulting. Along the way, I engaged in independent projects focused around NLP (emedding, tokenization, LLMs). These experiences have led me to my master's thesis in which I am studying the relationship between types of datasets (synthetic and original) and model architectures (rule-based, deep learning, machine learning). I am evaluating this relationship by comparing the performance of state of the art NLP models (e.g., BERT, RoBERTa, Gemini) on sentiment analysis tasks, using common ML metrics (F1, precision, recall, cross-validation). I seek to understand why the models are failing in prescribing sentiment to certain online reviews, finding patterns in the language of the reviews.  Through this way, I have become skilled in a technical (machine learning, data science, deep learning) and non-technical domain (leadership, team collaboration, interpersonal communication), preparing me well for future opportunities. 
 
 
 Goals
@@ -22,14 +24,15 @@ My short term goal is to pursue a PhD in CS in Fall 2026. My long term goal is t
 Research Interests 
 ======
 
-My research intersects natural language processing, responsible AI, and human-robot interaction. I aim to develop and engage in research dedicated to creating user-friendly and trustworthy interfaces that provide easy human-robot task communication. This research is **difficult** for many reasons, however I am particularly focused on the notion that they are a "black-box" and thus lack the transparency and ethics to be used in society. 
+My research intersects natural language processing, responsible AI, and human-robot interaction. I aim to develop and engage in research dedicated to creating user-friendly and trustworthy interfaces that provide easy human-robot task communication. This research is **difficult** for many reasons, however I am particularly focused on 2  notions: 1)language models are a "black-box" and thus lack the transparency and ethics to be used in society and 2)there is a gap between cutting edge language models and their understanding of human intent, leading to miscommunication between humans and AI-driven systems. 
 
 **Technical Areas**
 1. Natural Language Processing (NLP)
 2. Machine Learning (ML)
 3. Deep Learning (DL)
 4. Computer Vision (CV) (object detection and image classification tasks) 
-5. Human Robotic Interaction (HRI)
+5. Human-Robotic Interaction (HRI)
+6. Human-AI Interaction 
 
 
 **Non-Technical Areas**
@@ -44,8 +47,6 @@ My research intersects natural language processing, responsible AI, and human-ro
 2. Increased focus on explainability and ethical considerations
 3. Improved cross-cultural capabilities
 4. **Increased collaboration between human researchers and AI systems** 
-
-I am also passionate about taking an interdisciplinary approach to my research by leveraging tools such as cognitive psychology and social science to address these research topics. I am also interested in applying my work to healthcare. 
 
 
 
@@ -62,8 +63,10 @@ Research Experiences
 3. **Master's Thesis (August 2025 - Present)**. I am advised by Dr. Ayah Zirkly & Dr. Robert Orttung. My research question was: How does the performance of common ML metrics (F1, precision, recall, cross-validation) for sentiment analysis tasks change between different model architectures (rule-based, deep learning, machine learning) and different datasets (synthetic and man-made)?
    
    Stakeholders: School of Engineering & Applied Sciences (SEAS), Sustainability Institute
+
+4. **Data Scientist at Intrinsic, a health-based startup of 50+ employees (June 2022 - October 2022).** I researched data annotation, designing ML pipelines to make predictions about pricing strategies given current customer behavior. 
    
-4. **Independent Projects (August 2025 - Present)**
+5. **Independent Projects (August 2025 - Present)**
    1. Building an LLM Model From Scratch (coming to Github soon!)
    2. Design, Build, Deploy, And Improve ML & Statistical Models To Analyze Structured And Unstructured Datasets (coming to Github soon!)
    3. Train, Validate, and Optimize Models Using Large Datasets (coming to Github soon!)
@@ -79,7 +82,7 @@ Teaching Experiences
 
 Publications
 ======
-1. Shreeya Sharda, Zoe Garbis, Hannah Besly, Robert Orttung, "The Variables Impacting Tourists in Overcrowded Regions: A Case Study of Juneau, Alaska", Advised by Dr. Robert Orttung. **This manuscript will be submitted for review in December 2025 in a Tourism journal. **
+1. Shreeya Sharda, Zoe Garbis, Hannah Besly, Robert Orttung, "The Variables Impacting Tourists in Overcrowded Regions: A Case Study of Juneau, Alaska", Advised by Dr. Robert Orttung. **This manuscript will be submitted for review in December 2025 in a Tourism journal.**
 
 
 
