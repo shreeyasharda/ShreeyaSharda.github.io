@@ -18,7 +18,7 @@ As I pursued my coursework at GW, I simultaneously acquired 4+ years of professi
 
 Goals
 ======
-My short term goal is to pursue a PhD in CS in Fall 2026. My long term goal is to become a Professor and mentor young minds! I want to dedicate my life to conducting high-impact research and traveling around the world to give talks about my research. You need to make this more specific and detailed 
+My short term goal is to pursue a PhD in CS in Fall 2026. My long term goal is to become a Professor and mentor young minds! I want to dedicate my life to conducting high-impact research, leading research groups in socially responsible AI. 
 
 
 Research Interests 
