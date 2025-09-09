@@ -16,7 +16,7 @@ I am currently a Master's student at The George Washington University, studying 
 As I pursued my coursework at GW, I simultaneously acquired 4+ years of professional experience in AI/ML: moving from academic research to w to defense consulting. Along the way, I engaged in independent projects focused around NLP (emedding, tokenization, LLMs). These experiences have led me to my master's thesis in which I am studying the relationship between types of datasets (synthetic and original) and model architectures (rule-based, deep learning, machine learning). I am evaluating this relationship by comparing the performance of state of the art NLP models (e.g., BERT, RoBERTa, Gemini) on sentiment analysis tasks, using common ML metrics (F1, precision, recall, cross-validation). I seek to understand why the models are failing in prescribing sentiment to certain online reviews, finding patterns in the language of the reviews.  Through this way, I have become skilled in a technical (machine learning, data science, deep learning) and non-technical domain (leadership, team collaboration, interpersonal communication), preparing me well for future opportunities. 
 
 
-Goals
+My Career Goals
 ======
 My short term goal is to pursue a PhD in CS in Fall 2026. My long term goal is to become a Professor and mentor young minds! I want to dedicate my life to conducting high-impact research, leading research groups in socially responsible AI. 
 
@@ -46,7 +46,7 @@ My research intersects natural language processing, responsible AI, and human-ro
 1. Integration of multiple data modalities
 2. Increased focus on explainability and ethical considerations
 3. Improved cross-cultural capabilities
-4. **Increased collaboration between human researchers and AI systems** 
+4. Increased collaboration between human researchers and AI systems
 
 
 
@@ -71,48 +71,6 @@ Research Experiences
    2. Design, Build, Deploy, And Improve ML & Statistical Models To Analyze Structured And Unstructured Datasets (coming to Github soon!)
    3. Train, Validate, and Optimize Models Using Large Datasets (coming to Github soon!)
 
-
-
-Teaching Experiences
-======
-1. Learning Assistant for **Python** Programming at GWU (2021-2022)
-2. **Python** Programming Instructor for K-8 Students at Code Advantage (2024-2025)
-
-
-
-Publications
-======
-1. Shreeya Sharda, Zoe Garbis, Hannah Besly, Robert Orttung, "The Variables Impacting Tourists in Overcrowded Regions: A Case Study of Juneau, Alaska", Advised by Dr. Robert Orttung. **This manuscript will be submitted for review in December 2025 in a Tourism journal.**
-
-
-
-Grants
-======
-1. Research Grant from Institute of Russian, Eurasian, European Studies for Sentiment Analysis Study (2022) - I received funding to travel to Norway in Summer 2022 to expand my research agenda internationally. 
-
-
-
-Awards 
-======
-1. Dean's List (2021, 2022).
-2. School of Engineering & Applied Sciences Honor Award (2025, 2026) - I received 25% off of my Master's tuition.
-
-
-  
-Technical Skills
-======
-1. **Programming Languages:**
-   Python, Java, HTML, MATLAB, C
-3. **Data Visualization Python-Libraries and Tools:**
-   Matplotlib, Seaborn, Tableau, Power BI
-5. **Data Science/Machine Learning Python-Libraries and Programming Languages:**
-   Sklearn, TensorFlow, PyTorch, XGBoost,  SQL
-7. **NLP Python-Libraries:**
-   TextBlob, NLTK, Spacy, GloVe, Word2vec
-9. **Robotics Python-Libraries, Tools:**
-   OpenCV, Unity Game Engine, ROS1, ROS2
-11. **Optimized Processing Tools:**
-   Graphics Processing Units (GPU)
 
 
 
