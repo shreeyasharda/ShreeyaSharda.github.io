@@ -26,16 +26,7 @@ redirect_from:
 
 
 
-
-
-
-
-
-
-
-
-
-
+**Descriptions of Major Research Experiences** SHOW RELEVANCE TO HUMAN-AI Interaction
 
 1. **Undergraduate Research Assistant at Institute of Russian, Eurasian, European Studies (February 2021 - Present).** I led a 3 year Sentiment Analysis study of online reviews, primarily using Python and Tableau. My research questions were: 1) How can I implement and apply NLP Sentiment Analysis techniques to analyze online reviews from TripAdvisor?, 2) How can I generalize my approach to other domains outside of tourism (e.g., product reviews on Amazon)?
    
