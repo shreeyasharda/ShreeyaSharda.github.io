@@ -24,29 +24,8 @@ My short term goal is to pursue a PhD in CS in Fall 2026. My long term goal is t
 Research Interests 
 ======
 
-My research intersects natural language processing, responsible AI, and human-robot interaction. I aim to develop and engage in research dedicated to creating user-friendly and trustworthy interfaces that provide easy human-robot task communication. This research is **difficult** for many reasons, however I am particularly focused on 2  notions: 1)language models are a "black-box" and thus lack the transparency and ethics to be used in society and 2)there is a gap between cutting edge language models and their understanding of human intent, leading to miscommunication between humans and AI-driven systems. 
+My research intersects natural language processing, responsible AI, and human-AI interaction. I aim to develop and engage in research dedicated to creating user-friendly and trustworthy interfaces that provide easy human-robot task communication. This research is **difficult** for many reasons, however I am particularly focused on 2  notions: 1)language models are a "black-box" and thus lack the transparency and ethics to be used in society and 2)there is a gap between cutting edge language models and their understanding of human intent, leading to miscommunication between humans and AI-driven systems. 
 
-**Technical Areas**
-1. Natural Language Processing (NLP)
-2. Machine Learning (ML)
-3. Deep Learning (DL)
-4. Computer Vision (CV) (object detection and image classification tasks) 
-5. Human-Robotic Interaction (HRI)
-6. Human-AI Interaction 
-
-
-**Non-Technical Areas**
-1. Casual Inference
-2. AI Governance (e.g., Fairness, Bias, AI Risk Management, NIST, CHAI, Responsible AI)
-3. Social Impact (e.g., Investigating how different algorithmic choices impact different demographics)
-4. AI Safety & Ethics for Trustworthy AI
-
-
-**Specific HRI/Robotics Topics**
-1. Integration of multiple data modalities
-2. Increased focus on explainability and ethical considerations
-3. Improved cross-cultural capabilities
-4. Increased collaboration between human researchers and AI systems
 
 
 
