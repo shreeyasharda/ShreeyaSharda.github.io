@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Shreeya Sharda's Portfolio"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
+
 ======
 I am currently a Master's student at The George Washington University, studying Computer Science. I am part of the Joint BA & MS in Computer Science (CS) program at GW. I took an interdisciplinary approach to my undergrad education by tailoring my undergrad degree to blend coursework in Business and Sustainability in addition to CS. I started my career as an International Affairs major because I was interested in the intersection of tech, science, and policy. After taking an introductory course in Python programming, I found that I was much more passionate about the technical side of computer science. As a Master's student, I am grateful for my preliminary studies in International Affairs because it directly aligns with my work in AI Goverance, a topic I am interested in researching within my PhD. 
 
