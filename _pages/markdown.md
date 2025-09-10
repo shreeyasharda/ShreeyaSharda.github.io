@@ -9,8 +9,34 @@ redirect_from:
 
 {% include toc %}
 
-Overview of Core Research Experiences
 ======
+
+
+**Professional Communications: Projects/Papers:**
+
+1. Research Article on "Variables Impacting Tourists' Experiences: A Case Study in Juneau, Alaska"
+2. Increasing Revenue for Capital Bikeshare - Course Report for Data Mining
+3. Model Card - MITRE Presenation
+4. Data Visualization - IERES
+5. Repository of Key Ideas about Responsible AI + Computer Vision - Independent Research Project
+6. Impact of AI on National Security - Course Report for Information Policy
+7. Recommendations for Manipulating Bounding Boxes for Computer Vision Object Detection models - MITRE Whitepaper
+8. Multi-Modal Integration - Indepdent Research Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. **Undergraduate Research Assistant at Institute of Russian, Eurasian, European Studies (February 2021 - Present).** I led a 3 year Sentiment Analysis study of online reviews, primarily using Python and Tableau. My research questions were: 1) How can I implement and apply NLP Sentiment Analysis techniques to analyze online reviews from TripAdvisor?, 2) How can I generalize my approach to other domains outside of tourism (e.g., product reviews on Amazon)?
    
    Stakeholders: National Science Foundation (NSF), Sustainability Institute, Ministry of Foreign Affairs in Norway
