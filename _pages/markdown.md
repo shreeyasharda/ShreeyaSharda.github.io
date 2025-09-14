@@ -9,7 +9,6 @@ redirect_from:
 
 {% include toc %}
 
-======
 
 
 **Professional Communications: Projects/Papers:**
