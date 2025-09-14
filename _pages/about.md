@@ -24,8 +24,8 @@ Research Interests
 ======
 My research intersects natural language processing, responsible AI, and human-AI interaction. I aim to develop and engage in research dedicated to creating user-friendly and trustworthy interfaces that provide easy human-robot task communication. This research is **difficult** for many reasons, however I am particularly focused on 2  notions: 
 
-* 1)language models are a "black-box" and thus lack the transparency and ethics to be used in society
-* 2)there is a gap between cutting edge language models and their understanding of human intent, leading to miscommunication between humans and AI-driven systems. 
+* language models are a "black-box" and thus lack the transparency and ethics to be used in society
+* there is a gap between cutting edge language models and their understanding of human intent, leading to miscommunication between humans and AI-driven systems. 
 
 
 Core Strengths
