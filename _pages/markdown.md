@@ -13,7 +13,7 @@ redirect_from:
 
 **Professional Communications: Projects/Papers:**
 
-1. "Examining Tourist Satisfaction in Juneau Using TripAdvisor Reviews" - Pilot Study (Manuscript)
+1. "Examining Tourist Satisfaction in Juneau Using TripAdvisor Reviews" - Pilot Study (Manuscript) "files/project-presentation.pdf "Project Presentation PDF"
 3. Increasing Revenue for Capital Bikeshare - Course Report for Data Mining
 4. Model Card - MITRE Presenation
 5. Data Visualization - IERES
